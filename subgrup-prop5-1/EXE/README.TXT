@@ -1,0 +1,1 @@
+Podeu trobar una proposta dels passos a seguir per a provar l'aplicació a DOCS/Jocs de Prova .
